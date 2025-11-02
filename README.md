@@ -1,5 +1,5 @@
-# NET101
-NET101 is a repository to learn about network from traditional to programmable network using mininet environment.
+# Mininet101
+Mininet101 is a repository to learn about network from traditional to programmable network using mininet environment.
 
 ## Requirement
 You need to install mininet on your Ubuntu Linux Server. Using this repo, you can just start the mininet container:
